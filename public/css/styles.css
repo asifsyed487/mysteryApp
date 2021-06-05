@@ -1,0 +1,40 @@
+body {
+  background-color: #4B0082;
+}
+
+.centered {
+  background: -webkit-linear-gradient(left, #d2dd2c 1%,#1e967a 26%,#632bdb 50%,#a52130 75%,#c79810 100%);
+  box-shadow: 5px 5px 15px 5px rgba(178,79,35,0.8);
+  padding-bottom: 1rem;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.mask-color {
+  color: #b0a5f7;
+
+}
+
+.header-color {
+  /* color: #4B0082; */
+  color: white;
+  font-family:cursive;
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.5);
+  padding: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.form-box {
+   margin: auto;
+   box-shadow: 8px 15px -5px 5px rgba(0,0,0,1);
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
